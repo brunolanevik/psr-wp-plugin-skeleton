@@ -1,2 +1,2 @@
-# psr-wp-plugin-skeleton
-PSR-2 WordPress Plugin Skeleton
+# PSR Plugin skeleton
+PSR-4 WordPress Plugin Skeleton
